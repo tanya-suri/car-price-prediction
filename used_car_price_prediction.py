@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # By - Samiksha Bhavsar
+
 
 # # USED CAR PREDICTION PRICE
 
