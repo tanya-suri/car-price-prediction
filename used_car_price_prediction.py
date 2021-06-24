@@ -30,9 +30,6 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 # In[3]:
 
-
-#I have used the raw link for the csv file from my github repositiory.
-#url = 'https://raw.githubusercontent.com/SamikshaBhavsar/ML-end_to_end_project/main/car_price_project/car_dataset.csv'
 url='car_dataset.csv'
 #read this file with the help of pandas.
 dataset = pd.read_csv(url)
